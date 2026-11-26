@@ -1,5 +1,6 @@
 # Projeto 01 — Análise de Vendas com Power BI
 ![Dashboard de Análise de Vendas](imagens/dashboard final.png)
+
 ## Sobre o projeto
 
 Projeto desenvolvido com o objetivo de analisar o desempenho de vendas utilizando a base de dados AdventureWorks2022, disponibilizada para fins de treinamento.
