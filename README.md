@@ -1,5 +1,5 @@
 # Projeto 01 — Análise de Vendas com Power BI
-![Dashboard de Análise de Vendas](imagens/dashboard final.png)
+![Dashboard de Análise de Vendas](dashboard%20final.png)
 
 ## Sobre o projeto
 
